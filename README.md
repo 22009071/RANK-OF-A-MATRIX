@@ -26,7 +26,7 @@ B = np.linalg.matrix_rank(A)
 print(B)
 ```
 
-## Output:
+## Output:kabilan
 ![](rank%20of%20matrix%20.png)
 
 ## Result:
