@@ -17,13 +17,7 @@ To write a python program to find the rank of a matrix
 
 ## Program:
 ```python
-#Program to find the rank of a matrix.
-#Developed
-#RegisterNumber: 
-import numpy as np
-A = np.array([[5,-3,-10],[2,2,-3],[3,6,9]])
-B = np.linalg.matrix_rank(A)
-print(B)
+
 ```
 
 ## Output:
