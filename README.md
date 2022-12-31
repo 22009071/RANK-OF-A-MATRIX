@@ -21,7 +21,7 @@ To write a python program to find the rank of a matrix
 #Developed by: KABILAN T
 #RegisterNumber: 22009071
 import numpy as np
-A=np.array([[3,2,5],[1,1,2],[3,3,6]])
+A=np.array([[1,2,3],[3,6,9]])
 B=np.linalg.matrix_rank(A)
 print(B)
 ```
