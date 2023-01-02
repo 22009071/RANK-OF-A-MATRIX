@@ -27,7 +27,7 @@ print(B)
 ```
 
 ## Output:
-![](rank%20of%20matrix%20.png)
+![eig](Screenshot_20230102_060557.png)
 
 ## Result:
 
